@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\hack\\hack\\ToyVpn\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "C:\\hack\\hack\\ToyVpn\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\hack\\hack\\ToyVpn\\app\\build\\intermediates\\res\\merged\\debug\\layout\\form.xml",
+        "source": "C:\\hack\\hack\\ToyVpn\\app\\src\\main\\res\\layout\\form.xml"
+    },
+    {
+        "merged": "C:\\hack\\hack\\ToyVpn\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\hack\\hack\\ToyVpn\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\hack\\hack\\ToyVpn\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datacheck.xml",
+        "source": "C:\\hack\\hack\\ToyVpn\\app\\src\\main\\res\\layout\\datacheck.xml"
+    }
+]

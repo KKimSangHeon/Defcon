@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\hack\\hack\\ToyVpn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn33.png",
+        "source": "C:\\hack\\hack\\ToyVpn\\app\\src\\main\\res\\drawable\\btn33.png"
+    },
+    {
+        "merged": "C:\\hack\\hack\\ToyVpn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_1024.png",
+        "source": "C:\\hack\\hack\\ToyVpn\\app\\src\\main\\res\\drawable\\splash_1024.png"
+    },
+    {
+        "merged": "C:\\hack\\hack\\ToyVpn\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dfd_appicon.png",
+        "source": "C:\\hack\\hack\\ToyVpn\\app\\src\\main\\res\\drawable\\dfd_appicon.png"
+    }
+]
